@@ -110,17 +110,7 @@ Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Keerthana-Vinod&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 ## 👀 Profile Views
 
