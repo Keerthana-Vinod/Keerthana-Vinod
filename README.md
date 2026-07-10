@@ -18,36 +18,46 @@
 Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 </h3>
 
----
-
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Artificial Intelligence
+<table>
+<tr>
 
-- 🔭 Currently improving my **Full Stack Development** skills
+<td width="50%" valign="top">
 
-- 🌱 Learning **React, Node.js, Express, FastAPI, SQL & DevOps**
+### 💼 Currently Building
 
-- 🚀 Building AI-powered applications and web platforms
+- ⚡ VOLT-AI
+- 💄 LipShade AI
+- 🤖 WhatsApp Task Automation Bot
+- 📊 Attendance & Payroll Tracker
+- 🌐 Full Stack Web Applications
 
-- 👯 Looking to collaborate on **Open Source Projects**
+</td>
 
-- 🤝 Looking for help with **Advanced Full Stack & AI Projects**
+<td width="50%" valign="top">
 
-- 💬 Ask me about
+### 🌱 Currently Learning
 
-  `C` `C++` `Java` `Python` `SQL`
-  `HTML` `CSS` `JavaScript` `React`
+- ⚛️ React & Next.js
+- 🚀 FastAPI & Node.js
+- 🗄️ SQL & Database Design
+- ☁️ Docker & DevOps
+- 🧩 System Design Basics
 
-- 👨‍💻 Portfolio of projects:
-  **https://github.com/Keerthana-Vinod**
+</td>
 
-- 📫 Reach me at:
-  **keerthanavinod567@gmail.com**
+</tr>
+</table>
 
-- ⚡ Fun Fact:
-  **I debug code faster when I explain it to my plant 🌱**
+### 🚀 About Me
 
+- 🎓 B.Tech CSE (AI) Student
+- 💻 Passionate Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🏆 National Hackathon Finalist
+- 🌱 Love building real-world software solutions
+- 📫 **keerthanavinod567@gmail.com**
 ---
 
 ## 🌐 Connect With Me
