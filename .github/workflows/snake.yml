@@ -24,9 +24,14 @@ jobs:
       - name: Generate Snake Animations
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Keerthana-Vinod
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Debug - List output files
+        run: |
+          echo "Checking generated files..."
+          ls -la output/ 2>/dev/null || echo "No output directory found"
