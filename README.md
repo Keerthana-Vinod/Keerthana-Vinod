@@ -35,15 +35,9 @@ Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 
 </td>
 
-</tr>
-</table>
-
-### 🚀 About Me
-<table>
-<tr>
-
 <td width="50%" valign="top">
 
+### 🚀 About Me
 
 - 🎓 B.Tech CSE (AI) Student
 - 💻 Passionate Full Stack Developer
@@ -51,12 +45,11 @@ Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 - 🏆 National Hackathon Finalist
 - 🌱 Love building real-world software solutions
 - 📫 **keerthanavinod567@gmail.com**
+
 </td>
 
 </tr>
 </table>
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
