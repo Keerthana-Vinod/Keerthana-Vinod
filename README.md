@@ -18,33 +18,33 @@
 Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 </h3>
 
-## 👩‍💻 About Me
+##  About Me
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🌱 Currently Learning
+###  Currently Learning
 
-- ⚛️ React & Next.js
-- 🚀 FastAPI & Node.js
-- 🗄️ SQL & Database Design
-- ☁️ Docker & DevOps
-- 🧩 System Design Basics
+-  React & Next.js
+-  FastAPI & Node.js
+-  SQL & Database Design
+-  Docker & DevOps
+-  System Design Basics
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 B.Tech CSE (AI) Student
-- 💻 Passionate Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🏆 National Hackathon Finalist
-- 🌱 Love building real-world software solutions
-- 📫 **keerthanavinod567@gmail.com**
+-  B.Tech CSE (AI) Student
+-  Passionate Full Stack Developer
+-  AI & Machine Learning Enthusiast
+-  National Hackathon Finalist
+-  Love building real-world software solutions
+-  **keerthanavinod567@gmail.com**
 
 </td>
 
