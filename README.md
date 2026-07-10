@@ -70,15 +70,6 @@ Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 
 ---
 
-## 💻 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,fastapi,mysql,git,github,vscode,bootstrap,bash,linux"/>
-
-</p>
-
----
 
 ## 📊 GitHub Statistics
 
