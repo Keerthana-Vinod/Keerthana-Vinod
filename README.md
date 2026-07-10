@@ -25,18 +25,6 @@ Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 
 <td width="50%" valign="top">
 
-### 💼 Currently Building
-
-- ⚡ VOLT-AI
-- 💄 LipShade AI
-- 🤖 WhatsApp Task Automation Bot
-- 📊 Attendance & Payroll Tracker
-- 🌐 Full Stack Web Applications
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 🌱 Currently Learning
 
 - ⚛️ React & Next.js
