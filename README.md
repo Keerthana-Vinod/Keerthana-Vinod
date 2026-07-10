@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerthana-Vinod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"></p>
+
 
 - 🔭 I’m currently working on **improving my full-stack development skills**
 
