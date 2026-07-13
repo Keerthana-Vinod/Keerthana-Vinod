@@ -108,7 +108,6 @@ Full Stack Developer • AI Enthusiast • B.Tech CSE (AI) Student
 </h3>
 
 ---
-
 ## Snake Contribution Animation
 
 <div align="center">
